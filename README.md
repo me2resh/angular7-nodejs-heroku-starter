@@ -7,6 +7,9 @@ $ git commit -m "my first commit'
 $ git push heroku master
 ```
 
+### Display URL
+[https://nodejs-angular-starter.herokuapp.com/](https://nodejs-angular-starter.herokuapp.com/)
+
 # AngularDeploy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.10.
