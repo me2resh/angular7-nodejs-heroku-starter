@@ -1,3 +1,12 @@
+# Deploy to Heroku
+
+```bash
+$ heroku create
+$ git add .
+$ git commit -m "my first commit'
+$ git push heroku master
+```
+
 # AngularDeploy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.10.
