@@ -1,4 +1,10 @@
-# Deploy to Heroku
+# Angular 7 & Node.JS heroku Starter
+This template is a starter for deploying an angular 7 application with NodeJS enginer on Heroku.
+
+## Preview URL
+[https://nodejs-angular-starter.herokuapp.com/](https://nodejs-angular-starter.herokuapp.com/)
+
+# Deployment Steps
 
 ```bash
 $ heroku create
@@ -6,9 +12,6 @@ $ git add .
 $ git commit -m "my first commit'
 $ git push heroku master
 ```
-
-### Display URL
-[https://nodejs-angular-starter.herokuapp.com/](https://nodejs-angular-starter.herokuapp.com/)
 
 # AngularDeploy
 
